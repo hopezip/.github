@@ -25,15 +25,15 @@
 
 |   메인 화면   |  성향 진단(GamBTI)  |   Steam 로그인   |
 |:--------:|:------:|:--------:|
-| <img src="https://github.com/user-attachments/assets/79d64c06-3bb2-4ffd-8951-15c91cdc79fd" alt="MainPage" width="260"> | <img src="https://github.com/user-attachments/assets/cb92a79c-15ea-43d2-96eb-c03b9898eb3d" alt="Diagnosis" width="260"> | <img src="https://github.com/user-attachments/assets/5fd85d28-6f5d-482a-a581-bd39534c6ebb" alt="SteamLogin" width="260"> |
+| <img src="https://github.com/user-attachments/assets/79d64c06-3bb2-4ffd-8951-15c91cdc79fd" alt="MainPage" height="170"> | <img src="https://github.com/user-attachments/assets/cb92a79c-15ea-43d2-96eb-c03b9898eb3d" alt="Diagnosis" height="170"> | <img src="https://github.com/user-attachments/assets/5fd85d28-6f5d-482a-a581-bd39534c6ebb" alt="SteamLogin" height="170"> |
 
 |   추천 결과   |  테마 큐레이션  |   설문 추천   |
 |:--------:|:------:|:--------:|
-| <img src="https://github.com/user-attachments/assets/12c91e15-1b31-46f1-91d8-887c2c80e089" alt="Recommend" width="260"> | <img src="https://github.com/user-attachments/assets/5d6aab77-35b3-43b2-a15e-75e2af645451" alt="Curation" width="260"> | <img src="https://github.com/user-attachments/assets/bafbdd05-983b-43b5-90ab-9b905be9950d" alt="Survey" width="260"> |
+| <img src="https://github.com/user-attachments/assets/12c91e15-1b31-46f1-91d8-887c2c80e089" alt="Recommend" height="170"> | <img src="https://github.com/user-attachments/assets/5d6aab77-35b3-43b2-a15e-75e2af645451" alt="Curation" height="170"> | <img src="https://github.com/user-attachments/assets/bafbdd05-983b-43b5-90ab-9b905be9950d" alt="Survey" height="170"> |
 
 |   AI 챗봇 고객센터   |  라이브러리 동기화  |   마이페이지   |
 |:--------:|:------:|:--------:|
-| <img src="https://github.com/user-attachments/assets/308391c6-c71a-4304-9e30-4fbc4b193116" alt="Chatbot" width="260"> | <img src="https://github.com/user-attachments/assets/25f06e49-95fe-4d36-bbd1-2b1465cbdce6" alt="LibrarySync" width="260"> | <img src="https://github.com/user-attachments/assets/6ab93083-41d7-49a4-a9b6-3c5fea26c6d4" alt="MyPage" width="260"> |
+| <img src="https://github.com/user-attachments/assets/308391c6-c71a-4304-9e30-4fbc4b193116" alt="Chatbot" height="170"> | <img src="https://github.com/user-attachments/assets/25f06e49-95fe-4d36-bbd1-2b1465cbdce6" alt="LibrarySync" height="170"> | <img src="https://github.com/user-attachments/assets/6ab93083-41d7-49a4-a9b6-3c5fea26c6d4" alt="MyPage" height="170"> |
 
 ---
 
